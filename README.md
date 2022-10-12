@@ -1,1 +1,1 @@
-# code-examples-and-good-practices
+# Code examples and good practices for React Native (including typescript). Feel free go through folders and use them in your code.
