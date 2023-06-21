@@ -9,3 +9,5 @@ Feel free to go through branches pick one and use in your project.
 - [Typescript](https://github.com/AlbertArakelyanEsterox/code-examples-and-good-practices/tree/typescript)
 - [Nuxt](https://github.com/AlbertArakelyanEsterox/code-examples-and-good-practices/tree/nuxt)
 
+## Practicies
+- [Design patterns](https://github.com/AlbertArakelyanEsterox/code-examples-and-good-practices/tree/design-patterns)
